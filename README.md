@@ -1,6 +1,6 @@
 # 🎶 PROJECT RESURRECTION — AIR THEREMIN
 
-### ✨ A touchless musical instrument, powered by curiosity and a little bit of electricity.
+### ✨ A touchless musical instrument, powered by curiosity and a little bit of electronics :)
 
 <p align="center">
   <strong>IEEE Student Branch · University of Boumerdes (IEEE SBUB)</strong>
@@ -31,7 +31,7 @@ Air Theremin detects the distance between your hands and two ultrasonic sensors,
 | Your movement | What happens |
 |---|---|
 | ✋ Right hand | Controls the pitch (frequency) |
-| 🤚 Left hand | Controls the volume (loudness) |
+| ✋ Left hand | Controls the volume (loudness) |
 
 Move your hands closer or farther away, and watch the sound change!
 
@@ -43,15 +43,13 @@ Move your hands closer or farther away, and watch the sound change!
 4. The left-hand sensor determines the volume.
 5. Arduino Timer1 generates a PWM signal to produce the sound.
 
-A little bit of physics, a little bit of programming, and a whole lot of experimentation.
+A little bit of physics, a little bit of programming, and a whole lot of experimentation X3!!
 
 ---
 
 ## 🛠️ From components to an instrument
 
-Building the Air Theremin was not just about connecting components.
-
-Our development process involved several stages:
+Building the Air Theremin was not just about connecting components. Our development process involved several stages:
 
 1. Setting up the Arduino Uno and Arduino IDE.
 2. Experimenting with LEDs and digital inputs.
@@ -145,19 +143,6 @@ A project is never built entirely alone.
 - **Amine Khammar** — For the exterior design and painting.
 
 And to everyone who supported us throughout this experience: thank you!
-
----
-
-## 📚 References & Resources
-
-For transparency, here are some of the resources involved in our work:
-
-- Air Theremin Build Guide — Youcef Harmouni, IEEE Student Branch, Boumerdes University.
-- [Arduino Uno Documentation](https://docs.arduino.cc/hardware/uno-rev3/)
-- [Arduino Language Reference](https://docs.arduino.cc/language-reference/)
-- [Arduino IDE](https://www.arduino.cc/en/software/)
-- [Tinkercad](https://www.tinkercad.com/)
-- [Overleaf](https://www.overleaf.com/)
 
 ---
 
