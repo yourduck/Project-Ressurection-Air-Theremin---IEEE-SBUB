@@ -20,7 +20,7 @@ Using two ultrasonic sensors, an Arduino Uno, and nothing but hand movements, we
 
 No keys. No strings. No physical contact.
 
-Just your hands, some electronics, and music. 🎵
+Just your hands, some electronics, and music ˖ ݁♬⋆.˚𝄞
 
 ---
 
@@ -35,7 +35,7 @@ Air Theremin detects the distance between your hands and two ultrasonic sensors,
 
 Move your hands closer or farther away, and watch the sound change!
 
-### 🔬 How does it work?
+### 📚 How does it work?
 
 1. The two HC-SR04 ultrasonic sensors measure hand distances.
 2. The Arduino Uno receives and processes these measurements.
@@ -59,7 +59,7 @@ Building the Air Theremin was not just about connecting components. Our developm
 6. Assembling the complete circuit.
 7. Testing, troubleshooting, soldering and painting the final prototype.
 
-### 📸 Inside the workshop
+### 🖼️ Inside the workshop
 
 <p align="center">
   <img src="DCIM/proto_1.jpg" width="400">
@@ -72,7 +72,7 @@ Building the Air Theremin was not just about connecting components. Our developm
 
 ---
 
-## 🎥 See it in action!
+## 🎞️ See it in action!
 
 The best way to understand an Air Theremin is to see one being played.
 
@@ -80,7 +80,7 @@ The best way to understand an Air Theremin is to see one being played.
 
 ---
 
-### 🚀 What's next?
+### 💡 What's next?
 
 There is always room to make things better! Some improvements we'd love to explore:
 
@@ -92,7 +92,7 @@ There is always room to make things better! Some improvements we'd love to explo
 
 ---
 
-## 👥 The people behind the project
+## ˙ᵕ˙ The people behind the project
 
 **Team sʎnth** A project built through collaboration, experimentation, and shared curiosity.
 
@@ -108,7 +108,7 @@ And to everyone who supported us throughout this experience: thank you!
 ---
 
 <p align="center">
-  <strong>⚡ PROJECT RESURRECTION · IEEE SBUB · 2026 ⚡</strong>
+  <strong>⚙︎ PROJECT RESURRECTION · IEEE SBUB · 2026 ⏻</strong>
   <br>
   <em>We didn't just build an instrument. We brought an idea back to life.</em>
   <br><br>
