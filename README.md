@@ -78,44 +78,11 @@ The best way to understand an Air Theremin is to see one being played.
 
 **▶️ [WATCH THE AIR THEREMIN DEMONSTRATION](https://drive.google.com/file/d/1ww8G79BqD6kc3VhWqNr-9IXu1tASepQo/view?usp=drive_link)**
 
-Our testing included experimenting with different hand positions and attempting to reproduce recognizable melodies, including *Twinkle, Twinkle, Little Star*.
-
 ---
-
-## 🏁 Project status
-
-<details>
-<summary><strong>✅ Development checklist — 100% completed</strong></summary>
-
-- [x] Arduino setup and programming
-- [x] Ultrasonic hand detection
-- [x] Pitch control
-- [x] Volume control
-- [x] Speaker output
-- [x] Complete circuit assembly
-- [x] Soldering
-- [x] Painting
-- [x] Functional testing
-
-</details>
-
-### ⚠️ Challenges we encountered
-
-Engineering rarely goes exactly as planned.
-
-Some of our challenges included:
-
-- **Sensor timeouts:** Our initial timeout setting prevented reliable ultrasonic readings.
-- **Sensor interference:** Operating two ultrasonic sensors simultaneously affected measurement accuracy.
-- **Sound quality:** The speaker's output was not always as clear as we wanted.
-
-We experimented with sensor positioning, adjusted the code, and tested different configurations to improve the results.
 
 ### 🚀 What's next?
 
-There is always room to make things better!
-
-Some improvements we'd love to explore:
+There is always room to make things better! Some improvements we'd love to explore:
 
 - 🎨 An LED bar displaying the notes being played.
 - 🎹 Different musical scales, including major and pentatonic.
@@ -127,18 +94,7 @@ Some improvements we'd love to explore:
 
 ## 👥 The people behind the project
 
-**Team sʎnth**
-
-A project built through collaboration, experimentation, and shared curiosity.
-
-| Team member | Contribution |
-|---|---|
-| Tesnim Azzeb | Circuit wiring, soldering, code modification, debugging, testing and assembly |
-| Sidra Chalouche | Circuit wiring, soldering, assembly and documentation scripting |
-| Wissem Zaimeddine | Circuit wiring, soldering, assembly and LaTeX report typesetting |
-| Imene El Batoul Abdaoui | Circuit wiring, soldering, painting and assembly |
-| Anaïs Yakoubi | Circuit wiring, soldering, assembly and functional testing |
-| Amina Nefida | Circuit wiring, soldering, painting and assembly |
+**Team sʎnth** A project built through collaboration, experimentation, and shared curiosity.
 
 ### 💙 Special thanks
 
