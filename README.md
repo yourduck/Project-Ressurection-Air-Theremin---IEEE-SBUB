@@ -61,9 +61,14 @@ Building the Air Theremin was not just about connecting components. Our developm
 
 ### 📸 Inside the workshop
 
-<!-- Add your prototype and circuit photographs here -->
+<p align="center">
+  <img src="DCIM/proto_1.jpg" width="400">
+  <img src="DCIM/proto_2.jpg" width="400">
+</p>
 
-*From the first prototype to the final assembly.*
+<p align="center">
+  <em>From the first prototype to the final assembly.</em>
+</p>
 
 ---
 
@@ -71,7 +76,7 @@ Building the Air Theremin was not just about connecting components. Our developm
 
 The best way to understand an Air Theremin is to see one being played.
 
-**▶️ [WATCH THE AIR THEREMIN DEMONSTRATION](ADD_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+**▶️ [WATCH THE AIR THEREMIN DEMONSTRATION](https://drive.google.com/file/d/1ww8G79BqD6kc3VhWqNr-9IXu1tASepQo/view?usp=drive_link)**
 
 Our testing included experimenting with different hand positions and attempting to reproduce recognizable melodies, including *Twinkle, Twinkle, Little Star*.
 
