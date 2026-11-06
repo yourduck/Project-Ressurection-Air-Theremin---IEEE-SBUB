@@ -47,51 +47,6 @@ A little bit of physics, a little bit of programming, and a whole lot of experim
 
 ---
 
-## 🎼 Meet the hardware
-
-| Component | Quantity | Purpose |
-|---|---:|---|
-| Arduino Uno | 1 | Main controller |
-| HC-SR04 ultrasonic sensors | 2 | Hand detection |
-| Speaker | 1 | Sound output |
-| Motor driver | 1 | Speaker driving |
-| 1 kΩ resistor | 1 | Base current limiting |
-| 100 Ω resistor | 1 | Speaker current limiting |
-| Breadboard & jumper wires | — | Circuit connections |
-
-**Software & tools**
-
-- Arduino IDE
-- Tinkercad
-- Arduino C++
-- LaTeX / Overleaf
-
----
-
-## 🧠 A little engineering behind the music
-
-Our project brings together several fundamental concepts:
-
-- **Ultrasonic ranging:** Measuring distance using reflected sound waves.
-- **Frequency and period:** Converting distance into musical pitch.
-- **PWM:** Generating a signal with adjustable frequency and duty cycle.
-- **Ohm's law:** Understanding and sizing circuit resistors.
-- **Signal processing:** Smoothing sensor readings to make sound transitions more stable.
-
-We also implemented distance-to-note mapping.
-
-For example:
-
-| Hand distance | Musical note | Frequency |
-|---:|---|---:|
-| 5 cm | A5 | 880 Hz |
-| 20 cm | A4 | 440 Hz |
-| 35 cm | A3 | 220 Hz |
-
-Approximately 1.25 cm corresponds to one semitone in our note mapping.
-
----
-
 ## 🛠️ From components to an instrument
 
 Building the Air Theremin was not just about connecting components.
